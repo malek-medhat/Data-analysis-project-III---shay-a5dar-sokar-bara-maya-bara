@@ -2,6 +2,6 @@ Malek Medhat 24-101474: Dataset and Proposal + Powerpoint
 
 Youssef Hatem 24-101444: Report
 
-Kareem Hany 24-101316: Main
+Kareem Hany 24-101316: main (Jupiter notebook)
 
 Mohamed Yasser 24-101326: Demo Video + Contribution sheet
